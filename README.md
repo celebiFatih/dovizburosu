@@ -1,0 +1,2 @@
+# Döviz Bürosu Kasa Takip Sistemi
+Bu projede TCMB tarafından güncel döviz kurlarının yayınlandıgı https://www.tcmb.gov.tr/kurlar/today.xml web adresinden anlık olarak güncellenecek sekilde dolar ve euro kurları bilgileri alınmıştır. Program ile kullanıcı tarafından yapılan al sat işlemlerinin ardından SQL Server veri tabanı kullanılarak oluşturulan kasa varlık bilgilerinin güncellenmesi sağlanmıştır.
